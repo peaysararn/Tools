@@ -1,3 +1,5 @@
+https://github.com/peaysararn/Tools/blob/main/Plotly_practice.ipynb
+
 3.1 Post the image of your chart
 
 ![newplot](https://github.com/peaysararn/Tools/assets/158492984/ad0d40af-47af-4d3f-9fd6-4577f8e447ec)
